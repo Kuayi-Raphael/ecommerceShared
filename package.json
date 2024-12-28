@@ -19,11 +19,11 @@
     "trailingComma": "es5"
   },
   "keywords": [],
-  "name": "@Kuayi-Raphael/ecommerce-shared",
+  "name": "@Kuayi-Raphael/ecommerceShared",
   "author": "Kuayi Raphael",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Kuayi-Raphael/ecommerce-shared.git"
+    "url": "git+https://github.com/Kuayi-Raphael/ecommerceShared.git"
   },
   "publishConfig": {
     "registry": "https://npm.pkg.github.com"
